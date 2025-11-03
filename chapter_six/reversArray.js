@@ -8,4 +8,7 @@ for(var i = 0; i < (arr.length / 2); i++){
     arr[arr.length -1 -i] = temp;
 }
 
+
 console.log(arr);
+
+// console.log(arr.reverse())
